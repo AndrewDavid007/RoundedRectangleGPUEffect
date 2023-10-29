@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6a866595-2f80-477e-8f64-321d92623595}") = "RoundedRectangleGPUEffect", "RoundedRectangleGPUEffect\RoundedRectangleGPUEffect.csproj", "{1aa609d4-a4ed-4d1f-bdc3-2cca1ee3a15f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1aa609d4-a4ed-4d1f-bdc3-2cca1ee3a15f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1aa609d4-a4ed-4d1f-bdc3-2cca1ee3a15f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1aa609d4-a4ed-4d1f-bdc3-2cca1ee3a15f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1aa609d4-a4ed-4d1f-bdc3-2cca1ee3a15f}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ee46fee8-4ac8-4301-80ec-2baea998c711}
+	EndGlobalSection
+EndGlobal
